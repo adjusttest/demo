@@ -1,0 +1,17 @@
+Basic Web server metrics:
+
+- HTTPS requests (per second)
+- established HTTPS connections
+- disk IO 
+- disk free space 
+- memory usage\free
+- web server process alivenes
+- NICs usage
+- CPU Utilization
+- SSL cert expiration 
+- SSL port alivenes
+- FQDN expiration in DNS
+- HTTPS endpoints alivenes (URL, response timeout, keywords)
+- ICMP\ping check\timeouts
+- log files monitoring - size\keywords
+- additional\custom OS-related metrics
